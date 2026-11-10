@@ -1,0 +1,13 @@
+{
+  "format": "go",
+  "report": "coverage.out",
+  "percent": 80.37,
+  "covered": 602,
+  "total": 749,
+  "threshold": 80.0,
+  "sdk": "go",
+  "repository": "aspose-barcode-cloud/aspose-barcode-cloud-go",
+  "commit": "ea75d604d668cbb4c891214b1ec60d312355ef08",
+  "run_url": "https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-go/actions/runs/42826191948",
+  "published_at": "2026-11-10T13:38:09Z"
+}
