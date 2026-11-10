@@ -22,7 +22,7 @@ One folder per SDK: `dart`, `dotnet`, `go`, `java`, `node`, `php`, `python`, `sw
 |------|---------|
 | `coverage-badge.json` | [shields.io endpoint](https://shields.io/badges/endpoint-badge) document behind the badge above |
 | `summary.json` | percent, covered and total lines, threshold, SDK commit, workflow run URL, date |
-| `lcov.info`, `coverage.xml`, `clover.xml`, `jacoco.xml`, `coverage.out` or `codecov.json` | the native coverage report of the SDK's tooling |
+| `lcov.info`, `coverage.xml`, `cobertura.xml`, `jacoco.xml` or `coverage.out` | the native coverage report of the SDK's tooling |
 
 Each publish is one commit, so `git log -- <sdk>/summary.json` is the coverage history of that SDK.
 
