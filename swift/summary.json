@@ -1,0 +1,13 @@
+{
+  "format": "lcov",
+  "report": "lcov.info",
+  "percent": 94.7,
+  "covered": 2697,
+  "total": 2848,
+  "threshold": 80.0,
+  "sdk": "swift",
+  "repository": "aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Swift",
+  "commit": "bb8b78cd214b61699d5d82d084a236a51072bd7e",
+  "run_url": "https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Swift/actions/runs/42826357651",
+  "published_at": "2026-11-10T13:40:43Z"
+}
