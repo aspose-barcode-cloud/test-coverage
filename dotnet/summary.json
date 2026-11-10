@@ -1,0 +1,13 @@
+{
+  "format": "cobertura",
+  "report": "coverage.net10.0.cobertura.xml",
+  "percent": 84.69,
+  "covered": 1040,
+  "total": 1228,
+  "threshold": 80.0,
+  "sdk": "dotnet",
+  "repository": "aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-.NET",
+  "commit": "d0d8999ca94376e3e3cd004e248c87296dadabd8",
+  "run_url": "https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-.NET/actions/runs/42826149222",
+  "published_at": "2026-11-10T13:37:49Z"
+}
