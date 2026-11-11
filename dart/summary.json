@@ -1,13 +1,13 @@
 {
   "format": "lcov",
   "report": "lcov.info",
-  "percent": 86.67,
-  "covered": 1548,
-  "total": 1786,
+  "percent": 87.59,
+  "covered": 1581,
+  "total": 1805,
   "threshold": 80.0,
   "sdk": "dart",
   "repository": "aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Dart",
-  "commit": "a31caf6cfb43aa0f6fdaa3216f2d6d8acc4b0ebb",
-  "run_url": "https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Dart/actions/runs/42835951828",
-  "published_at": "2026-11-10T14:46:36Z"
+  "commit": "691af4f9ce45237d37b0d9e6d38ad827007b13aa",
+  "run_url": "https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Dart/actions/runs/42972362894",
+  "published_at": "2026-11-11T06:27:39Z"
 }
