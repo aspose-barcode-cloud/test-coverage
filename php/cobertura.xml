@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.84166666666667" branch-rate="0" lines-covered="2020" lines-valid="2400" branches-covered="0" branches-valid="0" complexity="1155" version="0.4" timestamp="1794397821">
+<coverage line-rate="0.84166666666667" branch-rate="0" lines-covered="2020" lines-valid="2400" branches-covered="0" branches-valid="0" complexity="1155" version="0.4" timestamp="1794402507">
   <sources>
     <source>/home/runner/work/Aspose.BarCode-Cloud-SDK-for-PHP/Aspose.BarCode-Cloud-SDK-for-PHP/src/Aspose/BarCode</source>
   </sources>
